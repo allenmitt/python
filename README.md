@@ -1,2 +1,2 @@
 # python
-General Python personal projects, modules, exploration, and challenges
+General Python modules, exploration, and challenges
